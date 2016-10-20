@@ -1,0 +1,30 @@
+﻿Thống kê: https://wireframe.cc/QdNRsS
+Đăng nhập :https://wireframe.cc/CiDTOa
+QL danh mục tin tức:https://wireframe.cc/CF0COm
+danhmuctintuc_them:https://wireframe.cc/oSupp0
+danhmuctintuc_sua:https://wireframe.cc/NoCgLb
+danhmuctintuc_xoa:https://wireframe.cc/uieApe
+QL danh sach lop:https://wireframe.cc/ynxaVk
+danhsachlop_them:https://wireframe.cc/3wkIQB
+danhsachlop_sua:https://wireframe.cc/xNMX2J
+danhsachlop_xoa:https://wireframe.cc/9tDgoO
+QL danh sach chi tiet tin tuc:https://wireframe.cc/XfaNtX
+danhsachchitiet_them:https://wireframe.cc/O0DzqV
+danhsachchitiet_sua:https://wireframe.cc/AbBOl5
+danhsachchitiet_xoa:https://wireframe.cc/XfaNtX
+QL danh sach phu huynh:https://wireframe.cc/HUQdle
+danhsachphuhuynh_them:https://wireframe.cc/csEMpe
+danhsachphuhuynh_sua:https://wireframe.cc/oABHwS
+danhsachphuhuynh_xoa:https://wireframe.cc/GIVr9a
+QL danh sach gia su:https://wireframe.cc/vwmfk8
+danhsachgiasu_them:https://wireframe.cc/0bMOUl
+danhsachgiasu_sua:https://wireframe.cc/jarTtR
+danhsachgiasu_xoa:https://wireframe.cc/yHniwT
+QL nguoi quan ly:https://wireframe.cc/8ixpDw
+danhsachnguoiquanly_them:https://wireframe.cc/RqpHvU
+danhsachnguoiquanly_sua:https://wireframe.cc/VgUr9c
+danhsachnguoiquanly_xoa:https://wireframe.cc/8ixpDw
+QL lienhegopy:https://wireframe.cc/CElsuu
+lienhegopy_them:https://wireframe.cc/jgWe7C
+lienhegopy_sua:https://wireframe.cc/frcxMe
+lienhegopy_xoa:https://wireframe.cc/hlwh2u
